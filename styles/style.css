@@ -375,7 +375,7 @@ html, body {
         font-weight: 800;
     }
     .banner-subtitle{
-        font-size: 0.5rem;
+        font-size: 0.6rem;
         font-weight: 500;
         margin-top: 0.6rem;
         margin-bottom: 0.6rem;
@@ -393,7 +393,7 @@ html, body {
         flex-direction: column;
     }
     .donate-today-subtitle{
-        font-size: 0.4rem;
+        font-size: 0.5rem;
     }
     .donate-today-input input{
         font-size: 0.5rem;
@@ -402,7 +402,7 @@ html, body {
         font-size: 1.8rem;
     }
     .our-donate-plan-subtitle, .get-update-subtitle{
-        font-size: 0.4rem;
+        font-size: 0.5rem;
     }
     .our-donate-plan-items{
         flex-direction: column;
@@ -454,6 +454,6 @@ html, body {
         font-size: 1rem;
     }
     .footer-subtitle{
-        font-size: 0.4rem;
+        font-size: 0.5rem;
     }
 }
